@@ -1,0 +1,2 @@
+# MOVIE-TICKET-RESERVATION-DATABASE-SYSTEM
+This project is aimed at developing an online ticket reservation system for a Cinema Hall. The Ticket Reservation System is an Internet based application that can be accessed throughout the Net and can be accessed by anyone who has a net connection. This application will automate the reservation of tickets. This online ticket reservation system provides a website for a cinema hall where any user of internet can access it. User is required to login to the system and needs a credit card for booking the tickets.
